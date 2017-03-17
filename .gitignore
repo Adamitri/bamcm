@@ -22,7 +22,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 # ignore an entire directory
-/UserControls/
+/D:\bamt\bamcm/
 
 # Visual Studio 2015 cache/options directory
 .vs/
